@@ -2,7 +2,7 @@
 using namespace std;
 
 // user-defined function to find first N prime numbers
-void morshedul_221400036(int n) {
+void morshedulislam_221400036(int n) {
     int count = 0;
 
     for (int num = 2; count < n; num++) {
@@ -32,6 +32,6 @@ int main() {
         return 0;
     }
 
-    morshedul_221400036(n);
+    morshedulislam_221400036(n);
     return 0;
 }
